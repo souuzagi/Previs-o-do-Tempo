@@ -1,6 +1,6 @@
 # Projeto Tabelas de Unidades Federais
 ## Descrição do Projeto
-O projeto consistia em criarmos uma Tabela de Unidades Federais do Brasil.
+O Projeto consistia em criarmos uma Tabela de Unidades Federais do Brasil.
 ## Tecnologias Utilizadas
 * HTML
 ## Autores do Projeto
